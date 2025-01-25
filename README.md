@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-## Hi there 👋
-I'm Sri Harsha Mattaparthy, a passionate Software Engineer
+I'm Sri Harsha Mattaparthy, a passionate Software Engineer.
 I'm open to Software Engineer roles, please get in touch with harshamattaparthy9@gmail.com
 
 

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sri Harsha Mattaparthy, a passionate Software Engineer.
+I'm Sri Harsha Mattaparthy, a Computer Science Graduate Student.
 I'm open to Software Engineer roles, please get in touch with harshamattaparthy9@gmail.com
 
 
@@ -43,6 +43,13 @@ I'm open to Software Engineer roles, please get in touch with harshamattaparthy9
 ![Continuous Integration](https://img.shields.io/badge/-CI-007ACC?logo=continuousintegration&logoColor=white)
 ![Continuous Delivery](https://img.shields.io/badge/-CD-007ACC?logo=continuousdelivery&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile-00B4E0?logo=agile&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br><br>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=divij-pawar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=divij-pawar&layout=compact&theme=dark&card_width=400)
+
+<!-- ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=divij-pawar&show_icons=true) -->  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
 

@@ -5,7 +5,7 @@ I'm open to Software Engineer roles, please get in touch with harshamattaparthy9
 
  🔭 I’m actively seeking for full-time jobs. <br>
 - 🌱 I’m currently learning Terraform, Jenkins, Ansible <br>
-- 🌩️ I'm currently preparing for AWS Data Engineer Certification.
+- 🌩️ I'm currently preparing for AWS Developer Associate Certification.
 
 ## Skills
 
@@ -47,11 +47,12 @@ I'm open to Software Engineer roles, please get in touch with harshamattaparthy9
 ![Continuous Delivery](https://img.shields.io/badge/-CD-007ACC?logo=continuousdelivery&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile-00B4E0?logo=agile&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br><br>
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=harsha7899&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=auto)
-![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harsha7899&layout=compact&theme=dark&card_width=auto)
-
-<!-- ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=divij-pawar&show_icons=true) -->  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ <div>
+  <a href="https://github.com/harsha7899">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha7899&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harsha7899&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs&hide_rank=true"/>
+</div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 
